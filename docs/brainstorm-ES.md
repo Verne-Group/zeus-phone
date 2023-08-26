@@ -19,10 +19,10 @@ Funcionalidades:
 1. Recibir y enviar llamadas
 2. Recibir y enviar mensajes
 3. Navegar por internet
-4. Transferir archivos por bluethoot y wifi
+4. Transferir archivos por bluetooht y wifi
 5. Tomar y guardar fotos
 6. USB
-7. Interfaz bluethoot
+7. Interfaz bluetooht
 8. Tomar capturas
 9. Usar servicios de google
 10. Grabar vídeos
