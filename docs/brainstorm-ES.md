@@ -1,9 +1,9 @@
 Especificaciones del hardware (Features):
 1. Micrófono.
 2. Cámara. (por definir)
-3. Raspberry Pi 4 B.
+3. Placa: Radxa (por definir).
 4. Entrada y salida de audio.
-5. Pantalla (touch LCD)
+5. Pantalla (touch LCD microhdmi)
 6. Módulos de SIM
 7. Batería recargable (por definir)
 8. Giroscopio
@@ -22,7 +22,7 @@ Funcionalidades:
 4. Transferir archivos por bluetooht y wifi
 5. Tomar y guardar fotos
 6. USB
-7. Interfaz bluetooht
+7. Interfaz bluetooth
 8. Tomar capturas
 9. Usar servicios de google
 10. Grabar vídeos
